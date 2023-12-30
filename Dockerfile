@@ -8,3 +8,4 @@ EXPOSE 8080
 CMD ["catalina.sh", "run"]
 
 1234
+abcdefg
